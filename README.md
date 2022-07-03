@@ -1,4 +1,4 @@
-# `Binary Search Tree`f
+# `Binary Search Tree`
 
 ### This repo contain all nessary code related to bst !!
 
