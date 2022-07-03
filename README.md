@@ -1,6 +1,7 @@
 # `Binary Search Tree`
 
-### This repo contain all nessary code related to bst !!
+### This repo contain all 
+necessary code related to bst !!
 
 # 🌴🌴🌴🌴🌴🌴🌴
 
