@@ -1,8 +1,10 @@
-#include <bits/stdc++.h>
-using namespace std;
 #pragma GCC optimize("Ofast")
 #pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,avx2,fma")
 #pragma GCC optimize("unroll-loops")
+#include <bits/stdc++.h>
+#include "header_file.h"
+using namespace std;
+
 #define Mod 10000000007
 typedef long long ll;
 typedef long double ld;
@@ -37,5 +39,27 @@ typedef vector<p32> vp32;
 
 int main(){
       fast_cin();
-Y;
+    search_karo(23);
+insert(10);
+insert(20);
+insert(2);
+insert(30);
+
+insert(0);
+insert(0);
+insert(23);
+insert(13);
+insert(-1);
+inorder_transversal(root); cout<<nl;
+search_karo(10);
+search_karo(540);
+search_karo(0);
+
+
+
+
+
+
+
+
   return 0;}
