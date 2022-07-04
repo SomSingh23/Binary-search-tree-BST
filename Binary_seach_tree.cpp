@@ -55,11 +55,4 @@ search_karo(10);
 search_karo(540);
 search_karo(0);
 
-
-
-
-
-
-
-
   return 0;}
