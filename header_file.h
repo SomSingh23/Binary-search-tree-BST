@@ -23,7 +23,7 @@ void insert(int key){
         root->rchild = nullptr ;
     }
     else { bool check_duplicate = false ;
-     stack.push(p);
+
      while (p!=nullptr)
      {   if(p!=nullptr)stack.push(p); 
          if(key==p->data)return;
