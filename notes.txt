@@ -1,0 +1,2 @@
+Need to write function for deleting a node in bst 
+and to create a bst using pre order transversal !!
